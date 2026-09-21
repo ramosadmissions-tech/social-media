@@ -29,6 +29,12 @@ Files are grouped by publication date under `posts/`; original filenames are pre
 | 2026-11-10 | How to choose which activities go in your Common App | Carousel, 5 slides | [`2026-11-10-choosing-common-app-activities`](posts/2026-11-10-choosing-common-app-activities) |
 | 2026-11-12 | If I could do my US application again | Carousel, 5 slides | [`2026-11-12-if-i-could-apply-again`](posts/2026-11-12-if-i-could-apply-again) |
 | 2026-11-14 | Three admissions terms to understand | Carousel, 5 slides | [`2026-11-14-three-admissions-terms`](posts/2026-11-14-three-admissions-terms) |
+| 2026-11-17 | Polish and US admissions: what each system looks for | Carousel, 6 slides | [`2026-11-17-polish-vs-us-admissions`](posts/2026-11-17-polish-vs-us-admissions) |
+| 2026-11-19 | The whole transcript counts | Static | [`2026-11-19-the-whole-transcript`](posts/2026-11-19-the-whole-transcript) |
+| 2026-11-21 | What you did outside class | Static | [`2026-11-21-activities-outside-class`](posts/2026-11-21-activities-outside-class) |
+| 2026-11-24 | Four records to build before you apply | Carousel, 6 slides | [`2026-11-24-four-records`](posts/2026-11-24-four-records) |
+| 2026-11-26 | US deadlines come before Matura | Static | [`2026-11-26-deadlines-before-matura`](posts/2026-11-26-deadlines-before-matura) |
+| 2026-11-28 | Build the record before year four | Static | [`2026-11-28-build-the-record-early`](posts/2026-11-28-build-the-record-early) |
 
 Raw URL pattern:
 
